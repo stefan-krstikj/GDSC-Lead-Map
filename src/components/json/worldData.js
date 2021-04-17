@@ -29,6 +29,7 @@ import Jacob from "../../photos/Jacob.jpg";
 import ashwinraj from "../../photos/ashwinraj.jpg";
 import suyashsonawane from "../../photos/suyashsonawane.jpg"
 import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
+import stefankrstikj from "../../photos/stefankrstikj.jpg"
 
 const data = [
 
@@ -505,7 +506,22 @@ const data = [
 		"linkedin": "https://www.linkedin.com/in/harshkumarkhatri/",
 		"twitter": "https://twitter.com/HarshKhatri24",
 		"portfolio": "http://bit.ly/iamharsh"
-	}
+	},
+  {
+	"longitude": 42.004168,
+	"latitude": 21.409355,
+	"batch": 2020,
+	"photo": stefankrstikj,
+	"region": "Europe",
+	"skills": ["App Dev", "Web Dev", "Cloud"],
+	"name": "Stefan Krstikj",
+	"bio": "DSC Lead @ UKIM Skopje. Software Engineer at Sorsix",
+	"url": "https://dsc.community.dev/saints-cyril-and-methodius-university-of-skopje/",
+	"chapterName": "Saints Cyril and Methodius University of Skopje",
+	"github": "https://github.com/stefan-krstikj",
+	"linkedin": "https://www.linkedin.com/in/stefankrstikj/",
+	"portfolio": "stefankrstikj.com/"
+  },
 ];
 
 export default data;
